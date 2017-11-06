@@ -1,0 +1,7 @@
+Size is: 4
+Default capacity increment is: 4
+Size after addition: 7
+Capacity after increment is: 8
+
+Values are:
+22 33 44 55 66 77 88 

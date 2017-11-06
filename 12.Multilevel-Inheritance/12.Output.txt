@@ -1,0 +1,6 @@
+Class Car
+Class Maruti
+Maruti Model: 800
+Vehicle Type: Car
+Brand: Maruti
+Max: 80Kmph

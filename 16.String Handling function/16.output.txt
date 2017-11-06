@@ -1,0 +1,10 @@
+Index of G is: 16
+Index of t from 3: 8
+index of substring Java :11
+Char at 2 is:l
+The lowercase strings arewelcome to java geeks!!!    
+The uppercase strings areWELCOME TO JAVA GEEKS!!!    
+The length of string is: 28
+Replacing Java from java: Welcome to java Geeks!!!    
+Removing the whitespace: Welcome to Java Geeks!!!
+Converting number into string35
